@@ -1,5 +1,3 @@
-#execute this file first to detect moving objects and store the times the object enters and exits the frame
-#press q to turn off webcam
 import cv2, time, pandas
 from datetime import datetime
 
